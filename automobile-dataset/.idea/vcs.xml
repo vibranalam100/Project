@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/raw/testing/engine_fault_db_github" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/raw/testing/gearbox_benchmark_github" vcs="Git" />
   </component>
 </project>
